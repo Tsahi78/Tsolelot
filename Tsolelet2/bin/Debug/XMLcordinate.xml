@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<ship>
+  <ship1>
+    <xy>
+      0,0
+    </xy>
+    <position>
+      horizontal
+    </position>
+  </ship1>
+  <ship2>
+    <xy>
+      0,4
+    </xy>
+    <position>
+      horizontal
+    </position>
+  </ship2>
+  <ship3>
+    <xy>
+      5,5
+    </xy>
+    <position>
+      vertical
+    </position>
+  </ship3>
+  <ship4>
+    <xy>
+      9,0
+    </xy>
+    <position>
+      vertical
+    </position>
+  </ship4>
+</ship>

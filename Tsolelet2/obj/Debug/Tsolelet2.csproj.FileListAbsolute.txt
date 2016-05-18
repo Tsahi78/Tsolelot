@@ -1,0 +1,18 @@
+C:\Users\ilan\Desktop\c# work\Tsolelet2\Tsolelet2\bin\Debug\Tsolelet2.exe.config
+C:\Users\ilan\Desktop\c# work\Tsolelet2\Tsolelet2\obj\Debug\Tsolelet2.csprojResolveAssemblyReference.cache
+C:\Users\ilan\Desktop\c# work\Tsolelet2\Tsolelet2\obj\Debug\Tsolelet2.WarFrm.resources
+C:\Users\ilan\Desktop\c# work\Tsolelet2\Tsolelet2\obj\Debug\Tsolelet2.Properties.Resources.resources
+C:\Users\ilan\Desktop\c# work\Tsolelet2\Tsolelet2\obj\Debug\Tsolelet2.csproj.GenerateResource.Cache
+C:\Users\ilan\Desktop\c# work\Tsolelet2\Tsolelet2\bin\Debug\Tsolelet2.exe
+C:\Users\ilan\Desktop\c# work\Tsolelet2\Tsolelet2\bin\Debug\Tsolelet2.pdb
+C:\Users\ilan\Desktop\c# work\Tsolelet2\Tsolelet2\obj\Debug\Tsolelet2.exe
+C:\Users\ilan\Desktop\c# work\Tsolelet2\Tsolelet2\obj\Debug\Tsolelet2.pdb
+C:\Users\ilan\Desktop\Tsolelet2\Tsolelet2\bin\Debug\Tsolelet2.exe.config
+C:\Users\ilan\Desktop\Tsolelet2\Tsolelet2\obj\Debug\Tsolelet2.exe
+C:\Users\ilan\Desktop\Tsolelet2\Tsolelet2\obj\Debug\Tsolelet2.pdb
+C:\Users\ilan\Desktop\Tsolelet2\Tsolelet2\bin\Debug\Tsolelet2.exe
+C:\Users\ilan\Desktop\Tsolelet2\Tsolelet2\bin\Debug\Tsolelet2.pdb
+C:\Users\ilan\Desktop\Tsolelet2\Tsolelet2\obj\Debug\Tsolelet2.csprojResolveAssemblyReference.cache
+C:\Users\ilan\Desktop\Tsolelet2\Tsolelet2\obj\Debug\Tsolelet2.WarFrm.resources
+C:\Users\ilan\Desktop\Tsolelet2\Tsolelet2\obj\Debug\Tsolelet2.Properties.Resources.resources
+C:\Users\ilan\Desktop\Tsolelet2\Tsolelet2\obj\Debug\Tsolelet2.csproj.GenerateResource.Cache
